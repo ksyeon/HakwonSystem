@@ -7,7 +7,7 @@ import javax.swing.UnsupportedLookAndFeelException;
 import mini.hakwon.view.View;
 
 public class Hakwon {
-
+	/* git test */
 	/**
 	 * 프로그램 실행
 	 */
@@ -31,7 +31,7 @@ public class Hakwon {
 		 */
 		View frame = new View();
 		frame.setVisible(true);
-
+		
 	}
 
 }
